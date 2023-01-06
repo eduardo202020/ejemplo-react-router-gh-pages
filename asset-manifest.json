@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ejemplo-react-router-gh-pages/static/css/main.5d213de9.css",
-    "main.js": "/ejemplo-react-router-gh-pages/static/js/main.ee332d1e.js",
+    "main.js": "/ejemplo-react-router-gh-pages/static/js/main.ec328d45.js",
     "static/js/787.28cb0dcd.chunk.js": "/ejemplo-react-router-gh-pages/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/ejemplo-react-router-gh-pages/index.html",
     "main.5d213de9.css.map": "/ejemplo-react-router-gh-pages/static/css/main.5d213de9.css.map",
-    "main.ee332d1e.js.map": "/ejemplo-react-router-gh-pages/static/js/main.ee332d1e.js.map",
+    "main.ec328d45.js.map": "/ejemplo-react-router-gh-pages/static/js/main.ec328d45.js.map",
     "787.28cb0dcd.chunk.js.map": "/ejemplo-react-router-gh-pages/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5d213de9.css",
-    "static/js/main.ee332d1e.js"
+    "static/js/main.ec328d45.js"
   ]
 }
