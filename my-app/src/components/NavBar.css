@@ -1,0 +1,17 @@
+.nav {
+  height: 80px;
+  background-color: #000;
+  display: flex;
+  justify-content: right;
+  align-items: center;
+}
+.nav a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 10px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.nav a:hover {
+  color: #f00;
+}
